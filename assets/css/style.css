@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
  html {
      Font-size: 62.5%;
@@ -8,15 +9,17 @@
 
 /* General styles */
  body {
-     font-family: 'Playfair Display SC', serif;
+     font-family: 'Playfair Display', serif;
  }
- 
+
  h1 {
+     font-family: 'Playfair Display SC', serif;
      font-size: 3rem;
      letter-spacing: 1px;
      font-weight: 400;
 }
  h2 {
+     font-family: 'Playfair Display SC', serif;
      font-size: 2.6rem;
      letter-spacing: 1px;
 }
